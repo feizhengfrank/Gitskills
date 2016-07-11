@@ -4,4 +4,8 @@ Git is free under the GPL
 Git has a mutable index called stage
 Git tracks changes
 Creating a branch is quick
-ONE SIMPLE
+<<<<<<< HEAD
+Creating a branch is SIMPLE
+=======
+Creating a branch is SIMPLE
+>>>>>>> feature1
