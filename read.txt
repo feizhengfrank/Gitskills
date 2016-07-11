@@ -9,3 +9,4 @@ Creating a branch is SIMPLE
 =======
 Creating a branch is SIMPLE
 >>>>>>> feature1
+a new test
